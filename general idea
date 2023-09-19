@@ -1,0 +1,11 @@
+- SKU
+  https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings#gwtype
+
+- [on-premise vpn device - azure vpn gateway] setup overview
+  https://learn.microsoft.com/en-us/microsoft-365/enterprise/connect-an-on-premises-network-to-a-microsoft-azure-virtual-network?view=o365-worldwide
+
+- [detailed setup]
+  https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell
+
+- [vpn device list]
+  https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-devices
